@@ -1,0 +1,2 @@
+1. Download `config.json` from https://fronts.gutools.co.uk/ and put it in the root folder of this project.
+2. Run `cargo run`
